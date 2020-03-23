@@ -1,4 +1,4 @@
-del	del<space>&task to delete a task
+del	del<space>$task to delete a task
 list	shows current task(s)
 new	new<space>$task_name<space>$priority
 erase	erase all task(s)
